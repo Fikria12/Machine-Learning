@@ -65,7 +65,9 @@ We fine-tuned the LightGBM model's hyperparameters to optimize its performance, 
 
 ## Conclusion and Recommendation
 
-*(The project successfully utilized LightGBM to model and predict house prices in California, achieving an R2 value of approximately 0.73. This indicates that the model explains about 73% of the variance in house prices, with an average MAPE (Mean Absolute Percentage Error) of around 17.66%, suggesting that predictions deviate by an average of 17.66% from actual prices. However, the model showed increased predictive errors for outliers and high-value properties and posed challenges in terms of interpretability due to the complexity of tree-based models.)*
+*(Bencmark model use a LightGBM for a model prediction house California
+The model achieves an R2 value of approximately 0.73, indicating that it explains about 73% of the variance in house prices.
+The average MAPE is around 17.66%, suggesting predictions deviate by an average of 17.66% from actual prices..)*
 
 
 1. Improve Data Quality: Focus on ensuring that training and testing data are representative and current, which is crucial for the accuracy and reliability of the model.
@@ -84,4 +86,4 @@ Implementing these recommendations will enable real estate businesses to refine 
 
 ---
 
-*For more details, please refer to the [California House Prediction.ipynb](https://github.com/Fikria12/Machine-Learning/blob/main/California_House_Prediction.ipynb)https://github.com/Fikria12/Machine-Learning/blob/main/California_House_Prediction.ipynb) Jupyter notebook.*
+*For more details, please refer to the [[California House Prediction.ipynb](https://github.com/Fikria12/Machine-Learning/blob/main/California_House_Prediction.ipynb)https://github.com/Fikria12/Machine-Learning/blob/main/California_House_Prediction.ipynb)](https://github.com/Fikria12/Streamlit-California)https://github.com/Fikria12/Streamlit-California Jupyter notebook.*

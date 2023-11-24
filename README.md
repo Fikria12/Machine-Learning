@@ -82,5 +82,6 @@ Implementing these recommendations will enable real estate businesses to refine 
 
 ## Deployment
 
+https://app-california-mvc4gcazup43trdfsetkxs.streamlit.app this app currenly on development process
 
 *For more details, please refer to the [[California House Prediction.ipynb](https://github.com/Fikria12/Machine-Learning/blob/main/California_House_Prediction.ipynb)https://github.com/Fikria12/Machine-Learning/blob/main/California_House_Prediction.ipynb)](https://github.com/Fikria12/Streamlit-California)https://github.com/Fikria12/Streamlit-California Jupyter notebook.*
